@@ -1,4 +1,4 @@
-# kaseyApiHelper
-This has not been tested.
-Some API calls will work.
-Requirements: Bearer Token & URI to Kaseya Endpoint
+# kaseyApiHelper<br />
+This has not been tested.<br />
+Some API calls will work.<br />
+Requirements: Bearer Token & URI to Kaseya Endpoint<br />
